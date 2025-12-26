@@ -1,0 +1,39 @@
+table,check_type,status,message
+farmers_master,Missing Values,PASS,No missing values
+farmers_master,Duplicates,PASS,No duplicates found
+farmers_master,Data Types,PASS,All data types correct
+farmers_master,Valid Categories,PASS,All categories valid
+potato_procurement,Missing Values,PASS,No missing values
+potato_procurement,Duplicates,ERROR,788 duplicate records found
+potato_procurement,Data Types,PASS,All data types correct
+potato_procurement,Value Ranges,PASS,All values within range
+production_batches,Missing Values,PASS,No missing values
+production_batches,Duplicates,ERROR,64 duplicate records found
+production_batches,Data Types,PASS,All data types correct
+quality_control,Missing Values,PASS,No missing values
+quality_control,Duplicates,PASS,No duplicates found
+quality_control,Data Types,PASS,All data types correct
+quality_control,Value Ranges,PASS,All values within range
+machine_downtime,Missing Values,PASS,No missing values
+machine_downtime,Duplicates,PASS,No duplicates found
+machine_downtime,Data Types,PASS,All data types correct
+wastage_tracking,Missing Values,PASS,No missing values
+wastage_tracking,Duplicates,PASS,No duplicates found
+wastage_tracking,Data Types,PASS,All data types correct
+b2b_customers,Missing Values,PASS,No missing values
+b2b_customers,Duplicates,PASS,No duplicates found
+b2b_customers,Data Types,PASS,All data types correct
+b2b_orders,Missing Values,PASS,No missing values
+b2b_orders,Duplicates,PASS,No duplicates found
+b2b_orders,Data Types,PASS,All data types correct
+export_shipments,Missing Values,PASS,No missing values
+export_shipments,Duplicates,PASS,No duplicates found
+export_shipments,Data Types,PASS,All data types correct
+b2c_sales,Missing Values,PASS,No missing values
+b2c_sales,Duplicates,PASS,No duplicates found
+b2c_sales,Data Types,PASS,All data types correct
+product_master,Missing Values,PASS,No missing values
+product_master,Duplicates,PASS,No duplicates found
+product_master,Data Types,PASS,All data types correct
+revenue_summary,Missing Values,PASS,No missing values
+revenue_summary,Data Types,PASS,All data types correct

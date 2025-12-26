@@ -1,0 +1,11 @@
+product_sku,product_name,category,weight_kg,cost_price_inr,b2b_price_inr,b2c_mrp_inr,launch_date
+HF-FF-SHOESTRING-2.5KG,French Fries Shoestring 2.5kg,French Fries,2.5,180,240,349,2019-03-15
+HF-FF-CRINKLE-2.5KG,French Fries Crinkle Cut 2.5kg,French Fries,2.5,190,255,379,2019-03-15
+HF-FF-WEDGES-2.5KG,French Fries Wedges 2.5kg,French Fries,2.5,195,260,399,2020-01-10
+HF-PATTY-ALOO-1KG,Aloo Patty 1kg,Patties,1.0,95,130,199,2018-06-20
+HF-PATTY-BURGER-1KG,Burger Patty 1kg,Patties,1.0,110,150,229,2019-08-05
+HF-PATTY-CUTLET-1KG,Veg Cutlet 1kg,Patties,1.0,100,135,209,2020-02-14
+HF-HASH-BROWN-1KG,Hash Browns 1kg,Specialty,1.0,105,145,219,2021-04-01
+HF-POTATO-SMILES-500G,Potato Smiles 500g,Specialty,0.5,60,85,129,2020-10-15
+HF-POTATO-CHEESE-BALLS-500G,Cheese Potato Balls 500g,Specialty,0.5,75,105,159,2021-07-20
+HF-ALOO-TIKKI-1KG,Aloo Tikki 1kg,Specialty,1.0,85,115,179,2022-01-10

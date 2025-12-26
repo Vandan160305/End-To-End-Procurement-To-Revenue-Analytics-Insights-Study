@@ -1,0 +1,201 @@
+customer_id,company_name,customer_type,country,city,onboarding_date,credit_limit_inr,credit_period_days,primary_contact,email,phone
+C00001,Badami Ltd,QSR Chain,Kuwait,Moradabad,2024-10-08,3859672,30,Deepa Mutti,dalbir95@halder-gara.com,918488326218
+C00002,"Ramaswamy, Sood and Handa",Food Service,Malaysia,Panvel,2021-05-31,45498785,90,Yahvi Gandhi,haldershivani@maharaj.biz,6194313394
+C00003,"Chandra, Oommen and Lall",Retail Chain,Singapore,Loni,2024-04-22,21973148,60,Sathvik Edwin,dbarad@narain.com,6890436388
+C00004,Deshpande-Dash,Retail Chain,South Africa,Sikar,2023-03-04,39278611,45,Girindra Kaur,hritik35@munshi.com,3663310839
+C00005,Ahluwalia PLC,Export Client,Nepal,Shimoga,2023-07-28,45626604,90,Timothy Dasgupta,tellakai@raj.com,913157868822
+C00006,"Bajwa, Kata and Varkey",Food Service,Malaysia,Rajahmundry,2023-09-30,16352887,30,Jatin Din,trajan@khurana.info,918182605399
+C00007,D’Alia-Iyer,Export Client,UK,Bally,2021-02-25,13215039,45,Eshana Manda,amblenihal@acharya.biz,9095600717
+C00008,"Iyer, Bhatia and Seth",Food Service,Qatar,Sambhal,2024-04-26,12075146,90,Luke Dhingra,mkapur@mukherjee-prasad.info,910010321070
+C00009,Edwin-Varkey,QSR Chain,UAE,Bhiwandi,2021-07-24,38627543,30,Xavier Saini,basakbalendra@bhatnagar.com,7479357837
+C00010,Suri and Sons,Retail Chain,Nepal,Srikakulam,2023-01-09,44029862,60,Eesha Grewal,daminisama@date.net,912222387498
+C00011,Lata Group,Food Service,Nepal,Sri Ganganagar,2021-10-13,14418323,90,Idika Sampath,dpillay@sampath.com,4961556444
+C00012,"Ahuja, Dyal and Arora",Export Client,Oman,Kollam,2023-05-08,48488011,45,Arunima Divan,maya44@pall-mitter.com,918419738245
+C00013,Kuruvilla-Mander,Export Client,India,Mira-Bhayandar,2022-10-18,12244690,90,Hamsini Narayan,saumya84@borra.com,9258794590
+C00014,"Magar, Sinha and Sehgal",Distributor,Bahrain,Panihati,2023-01-09,49114249,30,Aarna Bhattacharyya,yashasvi54@pant.com,919244796508
+C00015,Modi-Cherian,Food Service,South Africa,Pimpri-Chinchwad,2023-12-27,33843813,90,Aashi Pau,ansh35@rout.net,911459028434
+C00016,"Sarin, Rana and Ramesh",QSR Chain,Malaysia,Nandyal,2023-03-27,47033187,60,Triveni Rajagopalan,jiyer@pathak.net,6313878971
+C00017,Warrior LLC,Retail Chain,Nepal,Kalyan-Dombivli,2022-04-13,47844665,60,Peter Rajan,gopal22@shah.biz,917127677443
+C00018,Jhaveri-Kaur,Food Service,Bangladesh,Kolkata,2024-01-25,4681651,60,Kai Kothari,veda92@bhat-bava.com,2577953678
+C00019,Sarraf-Vaidya,Food Service,Nepal,Gurgaon,2020-12-11,4176991,45,Yatan Kumar,kapte@mahajan.net,2104946845
+C00020,Chaudry-Deo,Export Client,Singapore,Bettiah,2024-06-27,1048990,45,Yoshita Bhardwaj,minhasjatin@cheema.com,1080508531
+C00021,"Ranganathan, Varkey and Pradhan",Food Service,Oman,Silchar,2022-09-12,39040249,90,Warda Dyal,datetanmayi@mane.com,914527332466
+C00022,Thakkar-Vig,Food Service,UAE,Panchkula,2023-11-14,22187983,30,Krishna Sheth,chaturahayre@som.com,2275345295
+C00023,Wali-Bhakta,Food Service,India,Bokaro,2023-12-28,5396299,90,Januja Pal,krishabalay@chandra-garde.net,7637399410
+C00024,Nayar Ltd,QSR Chain,Singapore,Proddatur,2023-12-20,36900230,90,Dayamai Iyengar,somamrita@sami-toor.com,727113821
+C00025,Mutti Group,Export Client,UAE,Bahraich,2021-04-01,40701425,30,Ikshita Suresh,jmukherjee@dugar-devan.org,833451655
+C00026,"Kala, Borde and Sethi",Export Client,Singapore,Mau,2024-07-12,31473328,90,Bhavya Bhagat,urvashi24@sami.com,915409990594
+C00027,"Nadkarni, Sarkar and Prabhu",Export Client,UAE,Faridabad,2022-11-06,43083868,60,Omaja Desai,senguptavedhika@patil.com,912807409572
+C00028,Pandya Ltd,Export Client,Malaysia,Pune,2022-03-11,29140396,90,Pallavi Sandal,nimrat87@kala-keer.biz,911990585096
+C00029,Chaudry PLC,Distributor,UAE,Ongole,2023-10-16,49282334,60,Frederick Chadha,balvantandon@sarma-bhargava.com,913429439856
+C00030,Kumer and Sons,Distributor,Qatar,Bidar,2022-11-08,3008665,60,Hredhaan Oak,xalakparikh@dalia.com,2712509445
+C00031,Bhalla-Dugar,Distributor,Bangladesh,Dehri,2021-10-06,21517174,30,Upasna Nagy,flad@balakrishnan-cherian.com,2480252827
+C00032,Soman-Bobal,Retail Chain,UAE,Kulti,2023-12-09,29471568,60,Anya Basu,anamika68@sahota-kumar.org,5123014754
+C00033,"Zacharia, Balan and Dubey",Export Client,Singapore,Shimoga,2021-11-03,46749633,60,Hiral Barman,vaishnavithaman@ramanathan.info,9464362032
+C00034,"Sem, Bhatti and Chhabra",Export Client,Nepal,Unnao,2021-01-05,26481073,90,Harita Agarwal,oliverkhurana@sami.biz,4029173367
+C00035,Sankaran-Mammen,Food Service,Bangladesh,Bhiwandi,2022-06-15,49399623,90,Sanya Pau,pbehl@ramanathan-wadhwa.org,1158569650
+C00036,"Mann, Chokshi and Gaba",Retail Chain,Malaysia,Ongole,2024-10-21,11752537,90,Samuel Sood,diya19@dugal.com,6670488117
+C00037,"Mistry, Divan and Gandhi",Export Client,South Africa,Ghaziabad,2024-09-02,43290987,90,Vanya Balan,falanloke@tank.com,917203466986
+C00038,Gola-Anne,Retail Chain,Kuwait,Surendranagar Dudhrej,2022-05-27,20281075,45,Bhavika Sachdev,bhasinbalendra@munshi.com,917956094634
+C00039,"Chandra, Shukla and Chowdhury",QSR Chain,Nepal,Chandrapur,2021-01-26,33844013,30,Chakrika Bhavsar,tamanna23@shere.com,917293066578
+C00040,Sibal-Sinha,Export Client,Sri Lanka,Chinsurah,2023-05-21,38607517,60,Anirudh Kapur,gaurika99@rama.org,1093642714
+C00041,"Korpal, Vasa and Gokhale",Distributor,India,Kolkata,2022-12-22,29585892,90,Samuel Verma,isama@mistry-batra.org,2342532210
+C00042,Lal-Sandal,Distributor,Bahrain,Mumbai,2023-08-09,32810841,90,Dipta Keer,krisha89@sama.biz,6991591256
+C00043,Deep-Mall,QSR Chain,South Africa,Anantapuram,2024-09-29,38691143,90,Oscar Bahl,falanganguly@badami.net,914654203478
+C00044,"Mammen, Mukherjee and Pandit",Distributor,UAE,Delhi,2024-09-17,5213695,45,Kai Thaker,nikitavarty@goyal.com,916384334123
+C00045,"Garg, Soni and Pandey",Food Service,UK,Barasat,2021-08-05,24932981,60,Hemang Banik,mahajanucchal@karpe-kala.com,3870194207
+C00046,Ramesh and Sons,Retail Chain,South Africa,Unnao,2024-03-25,33340820,60,Rishi Sant,roypraneel@yogi.com,4278063865
+C00047,"Roy, Kapadia and Sheth",Food Service,Bahrain,Gorakhpur,2021-07-06,24467002,60,Ishani Apte,irya03@bora.com,5018407426
+C00048,Contractor-Vohra,Export Client,Saudi Arabia,Nangloi Jat,2024-07-31,32520899,60,Yagnesh Virk,dugarbalhaar@kunda.com,914463688681
+C00049,Kara PLC,Export Client,Saudi Arabia,Hapur,2021-08-01,33974647,90,Jagdish Pillai,charandave@pandit.com,4551030626
+C00050,Rout LLC,Retail Chain,Kuwait,North Dumdum,2022-09-21,13186771,45,Naveen Nath,jagat50@toor.com,7096693414
+C00051,"Sathe, Chaudhari and Bora",Retail Chain,South Africa,Saharanpur,2024-01-10,18162112,45,Qadim Badami,triya73@mangat.biz,4556597281
+C00052,"Kale, Tak and Behl",Food Service,Qatar,Ramagundam,2022-02-28,20790413,90,Bahadurjit Patil,vsaha@savant.org,2660811387
+C00053,Keer Group,Food Service,UAE,Madurai,2021-04-27,32845661,30,Sudiksha Yadav,ekantika06@oommen.biz,9824650319
+C00054,"Sharaf, Iyengar and Chawla",Distributor,Nepal,Tirunelveli,2022-10-03,8694686,30,Dalbir Seshadri,chatterjeedalbir@vig.net,3399899567
+C00055,Kothari-Kaul,Distributor,Saudi Arabia,Navi Mumbai,2024-10-27,27460917,45,Anika Salvi,ksem@sachdev.net,5562527705
+C00056,Gala LLC,Food Service,Qatar,Anantapuram,2021-01-17,6909948,60,Ati Pathak,ethanmunshi@goswami.com,4261536039
+C00057,"Sule, Bahri and Arya",Retail Chain,Sri Lanka,Kurnool,2024-07-04,4659220,60,Tanmayi Kant,lavanya63@chatterjee.com,5575362166
+C00058,Nagi LLC,Distributor,Saudi Arabia,Ambarnath,2021-10-05,38371505,45,Vinaya Arya,tooryashawini@tripathi.com,917685707512
+C00059,Sheth-Jain,Retail Chain,UAE,Madhyamgram,2023-07-20,36503670,30,Indrajit Mann,vidhimunshi@dey-sachdeva.com,4502371598
+C00060,"Bandi, Varghese and Narain",QSR Chain,India,Kamarhati,2021-06-12,15183634,45,Abhimanyu Wable,dugarmichael@bhattacharyya.com,7427563033
+C00061,Dhingra LLC,QSR Chain,Malaysia,Varanasi,2021-07-10,24760369,30,Jagat Bassi,bhargavayatan@kant-chacko.org,551938953
+C00062,Manda and Sons,QSR Chain,Kenya,Durgapur,2024-03-23,28995813,90,Agastya Thaker,minhaskashish@cherian-ganesan.com,8057765084
+C00063,Chana Group,Distributor,Malaysia,Vadodara,2023-07-26,19788899,30,Sanaya Sehgal,netramand@naidu.info,9884778023
+C00064,Bora and Sons,Retail Chain,UAE,Kavali,2021-05-01,41626726,30,Umang Verma,shethvivaan@sridhar-dubey.biz,6422077081
+C00065,Natt and Sons,Food Service,Singapore,Durg,2023-06-01,2780086,45,Omya Dugar,maanavnagarajan@deshpande.net,1859149398
+C00066,Sane Ltd,Food Service,Bangladesh,Kolkata,2024-10-17,33046676,60,Hardik Dugal,upadhriti08@wali.com,7600996501
+C00067,"Thaman, Tripathi and Sani",Retail Chain,Bangladesh,Satna,2021-03-05,3257739,45,Meera Baria,ektapandit@desai.com,4306647434
+C00068,Hayer-Acharya,Distributor,Kuwait,Bhubaneswar,2024-06-03,4338088,45,Urvi Patel,liam44@mitra.org,8868251771
+C00069,Zacharia-Bhagat,Export Client,Nepal,Shimoga,2024-10-22,41316256,60,Bhavya Sankaran,ikshita95@mahal.org,3011552877
+C00070,"Mutti, Chandran and Morar",QSR Chain,Saudi Arabia,Guntakal,2022-09-24,30190879,30,Hemang Gour,karan70@dave.com,9392246979
+C00071,"Halder, Saini and Anand",Retail Chain,Saudi Arabia,Avadi,2022-02-17,49843585,60,Harinakshi Chada,fsehgal@rajan-bir.com,910950000288
+C00072,Saxena-Bhardwaj,Food Service,Oman,Bathinda,2023-07-01,25114382,90,Timothy Ranganathan,pratyush96@choudhury.com,2352403930
+C00073,"Muni, Parikh and Pathak",Distributor,India,Morena,2022-02-07,7302686,30,Chandresh Upadhyay,jhaveriveer@dara.info,1321772717
+C00074,Lala Inc,Retail Chain,Qatar,Bhiwani,2023-09-30,38860497,45,Hemangini Chaudhry,kevinsaraf@kala.com,6250363788
+C00075,"Comar, Raja and Khosla",QSR Chain,Oman,Morena,2021-02-03,39337988,45,Mahika Raghavan,benjamin34@kanda.com,4693813987
+C00076,Behl PLC,Retail Chain,UK,Katni,2022-04-16,49460612,45,Ira Khurana,karabachittar@mangat-sanghvi.net,911399743261
+C00077,Bakshi Ltd,QSR Chain,Bangladesh,Ahmednagar,2023-10-23,31231883,30,Dayamai Cheema,salvimohini@mitra-trivedi.com,7421461915
+C00078,"Prashad, Gala and Chadha",Export Client,Qatar,Chinsurah,2023-08-21,5672735,30,Atharv Singhal,dreddy@hayre.com,8482768615
+C00079,Ranganathan Ltd,QSR Chain,Nepal,North Dumdum,2024-07-27,29088223,60,Lohit Atwal,ishwarbarad@yogi-amble.com,1926370120
+C00080,Pai-Bobal,Export Client,UAE,Kolkata,2024-05-06,25232294,30,Upkaar Sundaram,bhavanibhat@tiwari-kaur.biz,780926090
+C00081,"Chauhan, Kata and Dugar",Food Service,Sri Lanka,Latur,2021-07-05,46878995,45,Bhavani Mallick,krishnamannan@chhabra.org,298692154
+C00082,"Om, Upadhyay and Chatterjee",QSR Chain,Saudi Arabia,Srinagar,2021-05-14,12614822,45,Tripti Deshpande,sdube@tandon.com,5346084596
+C00083,"Ramaswamy, Sidhu and Konda",Export Client,Singapore,Alwar,2021-12-01,29268810,45,Faras Balakrishnan,xavierchauhan@deo-raghavan.com,914867180831
+C00084,Master-Suresh,QSR Chain,India,Eluru,2022-08-25,20066071,45,Anjali Mohan,charles55@mital.com,8241358689
+C00085,Lad LLC,QSR Chain,Sri Lanka,Allahabad,2022-02-08,42706909,30,Hiral Badal,dhritibawa@mand.com,4823112234
+C00086,Dugar Ltd,Retail Chain,UK,Katihar,2023-05-30,32578877,45,Ria Master,snayar@gera.com,9434880683
+C00087,Som-Ramanathan,Export Client,Kuwait,Dewas,2023-10-10,42785611,60,Ansh Mohan,samble@parmer.com,9103157826
+C00088,Kadakia Group,Export Client,Sri Lanka,Dhanbad,2023-07-09,22712625,60,Watika Ram,dalbir98@de-srinivas.com,919144770637
+C00089,"Savant, Doctor and Banerjee",Export Client,India,Nadiad,2022-03-22,34815660,30,Anvi Vora,uppalsara@more-sampath.com,913033216218
+C00090,"Palla, Mitter and Lalla",QSR Chain,Singapore,Dindigul,2022-05-12,23458783,45,Neelima Nayak,deeparamakrishnan@dasgupta.com,6098188661
+C00091,"Bansal, Venkataraman and Chaudry",QSR Chain,Kuwait,Bangalore,2022-04-28,1233528,60,Netra Nigam,chahalshravya@natarajan.info,914817624410
+C00092,"Johal, D’Alia and Dora",Distributor,India,Jamalpur,2024-08-02,30243282,60,Frederick Kala,farisparikh@aurora-shere.com,4636408738
+C00093,"Halder, Sehgal and Iyer",QSR Chain,Kuwait,Jammu,2023-09-02,949280,90,Praneel Bandi,toorsanaya@narula-chatterjee.com,916804956234
+C00094,More-Memon,Distributor,Sri Lanka,Mumbai,2024-03-11,1216946,45,Yashoda Vala,bdugal@doctor.net,5104540913
+C00095,Sarkar LLC,Retail Chain,India,Davanagere,2022-03-02,34743028,90,Karan Dewan,wkaran@parmar.com,5753676247
+C00096,Shanker Inc,QSR Chain,UK,North Dumdum,2023-09-17,30838384,60,Luke Kurian,nathaniel99@mangat.com,7453059955
+C00097,Sen LLC,Retail Chain,Saudi Arabia,Narasaraopet,2021-09-20,31465236,90,Andrew Kashyap,qganguly@pandya.com,916509146979
+C00098,Bala Group,QSR Chain,Saudi Arabia,Firozabad,2023-07-27,4391746,30,Bhavini Mittal,waliarjun@bali.biz,5938529836
+C00099,Grewal-Morar,QSR Chain,Kenya,Nagaon,2023-07-18,16937253,90,Yagnesh Padmanabhan,ekantika98@kalita-mand.com,9673788193
+C00100,Srinivas-Sarna,Export Client,Bahrain,Narasaraopet,2024-06-01,44656467,30,Farhan Datta,amol20@bala.com,9477742349
+C00101,Sastry-Karan,Retail Chain,Saudi Arabia,Surendranagar Dudhrej,2024-01-04,18212785,90,Mugdha Jain,lohitvarkey@gopal.net,386785297
+C00102,"Taneja, Pandey and D’Alia",Distributor,Kuwait,Madanapalle,2024-09-18,38988499,30,Shivani Gera,utkarsh34@lalla.com,1989570830
+C00103,Andra Group,Export Client,South Africa,Mahbubnagar,2021-06-24,33648968,90,Orinder Bahri,robert93@baral.com,1233031665
+C00104,Tak-Bhatt,Retail Chain,Saudi Arabia,Sambhal,2021-09-16,25027528,90,Tanvi Tailor,lmadan@murthy.com,2375298691
+C00105,"Narayan, Oak and Wason",Export Client,UAE,Gangtok,2022-04-08,14715155,60,Abdul Gade,hemal57@iyengar.info,1629191102
+C00106,"Mangal, Bora and Sastry",Distributor,UK,Bihar Sharif,2022-03-24,49458879,90,Siddharth Mishra,goswamijagrati@tella-saha.org,2578977988
+C00107,Ram-Babu,Retail Chain,Oman,Morbi,2023-01-21,28615212,90,Sai Natt,michaelmahajan@chaudry-dani.com,4880772589
+C00108,Sastry-Chacko,Export Client,Malaysia,Jamshedpur,2023-05-27,26487219,45,Manbir Shah,omaja29@rout.info,8335166314
+C00109,"Goel, Kanda and Ahluwalia",QSR Chain,Bangladesh,Thane,2022-09-11,5882645,45,Ryan Sule,oliver93@barman.com,5122993686
+C00110,Padmanabhan Ltd,Distributor,UAE,Gandhidham,2024-09-11,44388711,60,Pooja Borra,dhritibava@babu-sethi.com,4398319364
+C00111,Hari Ltd,Retail Chain,Singapore,Mumbai,2021-10-19,25258699,45,Bakhshi Saha,snehagade@ratti.com,910263778542
+C00112,Divan and Sons,QSR Chain,Nepal,Parbhani,2022-04-09,19379370,90,Ranbir Prashad,nsaraf@shetty.com,916597912023
+C00113,"Goda, Dara and Madan",Distributor,Nepal,Pudukkottai,2023-10-08,49376988,90,Nitara Chada,mugdha75@bassi.com,915972501391
+C00114,Pant-Gulati,Food Service,India,Agra,2021-11-11,12848427,60,Rachana Goda,faqiddoctor@iyer.com,5663309554
+C00115,Goswami-Singhal,Retail Chain,Saudi Arabia,Sambalpur,2022-09-27,19409103,60,Yuvraj Bora,krishnamurthywakeeta@sandhu.com,6173652212
+C00116,Contractor PLC,Export Client,Sri Lanka,Purnia,2022-06-19,33803676,90,Bachittar Kala,mayaprabhakar@shah.biz,194434071
+C00117,Dugal Inc,Export Client,South Africa,Coimbatore,2022-07-29,47942649,90,Neelima Karnik,madhavi62@narayanan-chauhan.com,9801037432
+C00118,Agarwal Inc,Retail Chain,Kuwait,Warangal,2023-11-07,27934118,45,Ekani Kata,tgarg@patla.com,917417076080
+C00119,Mandal-Wadhwa,Food Service,Bahrain,Dindigul,2023-07-21,28646647,60,Faqid Banerjee,ubikasampath@luthra.com,914634011691
+C00120,Dutta Inc,Distributor,UAE,Orai,2024-02-14,4792392,45,Xiti Malhotra,devansh46@keer-sundaram.com,9875673296
+C00121,Goyal Inc,Retail Chain,Kuwait,Saharsa,2022-07-19,30444315,90,Lekha Wali,kmukherjee@randhawa-ganesan.com,4968337246
+C00122,Barad LLC,Distributor,Nepal,Ahmednagar,2022-07-03,17207009,60,Pahal Virk,ekantamerchant@bajaj-gupta.org,1152582750
+C00123,Kaul Group,Export Client,Malaysia,Ujjain,2021-06-10,14351308,30,Ekani Hayer,chaudharychandani@shan.biz,5891253942
+C00124,Saraf LLC,Food Service,Sri Lanka,Jaipur,2022-09-29,25497217,60,Chanchal Puri,baradlavanya@peri-date.biz,918816764785
+C00125,Dada LLC,QSR Chain,UK,Gandhidham,2021-11-05,19323129,45,Advay Gupta,qasimkarpe@chana.info,2703636394
+C00126,"Lad, Tara and Walla",Retail Chain,South Africa,Madhyamgram,2023-02-02,37656512,60,Aarini Nigam,stoor@agate.biz,919580355880
+C00127,Hari-Ganguly,QSR Chain,Saudi Arabia,Kanpur,2024-06-07,29940479,90,Tara Prakash,rachita91@pingle-swaminathan.com,916575244139
+C00128,Jain Group,Distributor,India,Dharmavaram,2024-07-28,42124132,90,Bakhshi Bhagat,gmall@shan.com,9034892369
+C00129,"Rege, Dubey and Radhakrishnan",Food Service,Malaysia,Bongaigaon,2021-12-04,27570555,45,Abhimanyu Viswanathan,vinaya12@mukhopadhyay.biz,1492727377
+C00130,"Bath, Lal and Kant",Retail Chain,UK,Tenali,2022-05-25,32660332,60,Simon Viswanathan,samueltrivedi@deol.org,919037562483
+C00131,Viswanathan-Munshi,Distributor,Nepal,Ramagundam,2021-06-29,49900387,60,Riya Hans,samuelmutti@pau.com,914363295178
+C00132,"Salvi, Rana and Patil",Food Service,Kenya,Shimla,2022-10-13,26564200,45,Faras Mital,neeluppal@som.com,919459934158
+C00133,Mahal-Oak,QSR Chain,Sri Lanka,Satna,2021-03-04,34370056,45,Kiaan Wable,ganga79@seshadri.com,8789746773
+C00134,Dhar and Sons,Distributor,Nepal,Unnao,2023-11-22,9517472,60,Gunbir Choudhary,patlalopa@chadha.com,9355201957
+C00135,Khalsa Group,Export Client,Kenya,Anantapuram,2024-05-05,44606613,30,Radha Pau,akhurana@kashyap.com,917304331400
+C00136,Mital PLC,Distributor,Sri Lanka,Saharsa,2024-10-01,22643987,45,Meera Tata,nagibachittar@atwal-apte.net,2546074165
+C00137,"Dhar, Nagi and Sachdev",QSR Chain,Bahrain,Avadi,2022-10-09,6435664,60,Azad Dar,balasubramaniangaurika@issac-master.com,1350368031
+C00138,Zacharia and Sons,Food Service,Oman,Hubli–Dharwad,2024-05-06,40869148,90,Chavvi Nigam,jacobvirk@setty.info,8020066554
+C00139,Rajan Group,Distributor,Saudi Arabia,Jalgaon,2022-07-19,25544924,45,Vaishnavi Upadhyay,mbumb@dyal.com,3799701185
+C00140,"Tripathi, Sangha and Dugal",Export Client,Nepal,Howrah,2024-09-21,2817977,90,Peter Verma,niharika36@kata.info,5845491171
+C00141,Brahmbhatt-Lalla,Retail Chain,India,Purnia,2024-02-01,42240199,90,Hardik Soni,darachanakya@bobal-panchal.com,8855377857
+C00142,Anand-Lad,Food Service,Nepal,Udupi,2023-08-31,22401446,45,Yagnesh Bansal,ayaanwadhwa@divan-karan.com,3241278718
+C00143,Ravi-Taneja,Retail Chain,South Africa,Bokaro,2021-10-11,15773083,60,Gaurang Char,krish58@mammen.com,3908124631
+C00144,Tripathi PLC,QSR Chain,South Africa,Bhilwara,2023-03-28,3617752,60,Joshua Karnik,aaravdatta@venkatesh-balan.com,3970130673
+C00145,Baral-Lalla,QSR Chain,Qatar,Ambarnath,2023-07-01,25308864,30,Maya Keer,annedamyanti@kaur.biz,1908213029
+C00146,Goel-Char,QSR Chain,Bangladesh,Howrah,2020-12-31,15148720,30,Abdul Nadig,hritik07@acharya.net,7288399354
+C00147,Das-Munshi,Export Client,Kenya,Uluberia,2022-11-29,9090017,30,Ekavir Keer,upadhyaygeetika@patel.net,4637725245
+C00148,"Thaman, Bhattacharyya and Toor",QSR Chain,Malaysia,Sagar,2023-01-02,13388941,30,Alexander Bumb,kravi@chaudhary.com,918642593561
+C00149,"Mani, Sen and Sen",Distributor,Qatar,Bhilai,2023-02-07,26394505,60,Zilmil Gopal,wardasankaran@ganesh.com,6693843882
+C00150,"Jhaveri, Shan and Nayar",Food Service,Kuwait,Barasat,2024-04-03,12572316,90,Aayush Jani,oscar35@sama-munshi.com,7579691578
+C00151,Boase Ltd,Distributor,Bangladesh,Guntakal,2024-11-21,31656885,60,Farhan Dass,samachampak@dixit-ramakrishnan.biz,9395154191
+C00152,Bora-Rajagopalan,Distributor,Bahrain,Karimnagar,2024-07-12,32700138,60,Jeet Iyengar,sramachandran@badal-bhatia.net,910503256478
+C00153,Varughese LLC,Retail Chain,Bangladesh,Chandrapur,2022-08-22,18866468,60,Inaya Lalla,mohini12@dasgupta.com,916675980520
+C00154,Hegde-Swamy,QSR Chain,Sri Lanka,Vadodara,2021-04-15,5490019,60,Farhan Johal,badalchristopher@sinha.com,919731097672
+C00155,Chokshi Group,Food Service,Kenya,Pudukkottai,2021-04-04,49263975,90,Kashvi Sane,tchada@garg.com,918860896184
+C00156,"Nayar, Sethi and Jain",Retail Chain,Oman,Etawah,2022-06-19,26536925,45,Lavanya Bal,veer87@kalita.info,5051089921
+C00157,"Om, Sura and Patla",Export Client,Singapore,Jalgaon,2023-03-05,33705178,60,Yashodhara Contractor,khuranaamruta@dar-loyal.com,9808072924
+C00158,Soman-Sarkar,Retail Chain,Malaysia,Yamunanagar,2023-06-05,14148041,60,Bimala Narayan,djain@thakur.biz,911711485704
+C00159,"Sarraf, Hegde and Manda",Retail Chain,Saudi Arabia,Raichur,2022-12-16,41000002,60,Jyoti Mody,bhatianoah@bali.biz,911327096198
+C00160,"Kakar, Vohra and Patel",Export Client,India,Alappuzha,2021-01-04,48679119,90,Brinda Shroff,icomar@zachariah-tandon.com,1373726902
+C00161,D’Alia-Aurora,QSR Chain,Kenya,Dharmavaram,2022-03-21,41408996,30,Indira Rama,miteshsuri@rau.com,5259701204
+C00162,"Sandhu, Ganesh and Naidu",Food Service,Malaysia,Ambarnath,2021-04-15,25820861,45,Janani Bhatt,farajdhaliwal@murthy.biz,910876484057
+C00163,Barman-Samra,Retail Chain,Kenya,Arrah,2022-04-21,25184751,60,Saanvi Salvi,anthonythakkar@batta.com,9301215107
+C00164,Dalal-Bhatnagar,Distributor,Oman,Bahraich,2023-02-08,25042266,45,Vrishti Prabhu,simon08@sahni.com,911698281713
+C00165,Sandhu Group,Retail Chain,Bangladesh,Sagar,2022-07-03,11087947,90,Fariq Kala,madhav03@samra.com,913006042219
+C00166,Roy-Goda,Export Client,Singapore,Jamnagar,2023-09-07,48856864,60,Riya Batta,gargjanani@kala.com,915404186458
+C00167,"Sani, Dhingra and Sridhar",Export Client,Malaysia,Tezpur,2021-09-27,17199301,45,Ijaya Sridhar,pillaymohini@andra.com,5409886698
+C00168,"Sahota, Chatterjee and Agarwal",Retail Chain,Nepal,Tadipatri,2022-04-30,11785863,90,Girindra Merchant,maanav74@vaidya.org,5508748166
+C00169,Dubey Ltd,Export Client,UAE,Kochi,2023-09-12,18596232,90,Chameli Pant,fitanparmer@oza.com,912486961224
+C00170,Sankar-Raman,Retail Chain,Bangladesh,Rohtak,2022-03-21,37526461,30,Yatin Grewal,laban74@kadakia.com,579852943
+C00171,"Balan, Nagi and Chana",Distributor,Kenya,Ahmedabad,2023-04-20,25725941,45,Vamakshi Bhatti,pallavi72@minhas.biz,1622440347
+C00172,"Agate, Mishra and Pingle",QSR Chain,Singapore,Bhusawal,2023-02-17,31077935,45,Unnati Goel,prisha48@baral-barad.biz,911451178896
+C00173,Sawhney-Kumar,QSR Chain,South Africa,Uluberia,2024-12-08,25271555,30,Jackson Deshpande,omkaar09@salvi.com,506397246
+C00174,"Pandey, Biswas and Kar",Retail Chain,UK,Chennai,2022-11-27,7362095,45,Bachittar Rao,vkala@rege-toor.com,5985980640
+C00175,Nazareth-Bajaj,Export Client,India,Thrissur,2023-09-05,4300650,45,Anvi Issac,ranveer32@datta.info,1645268073
+C00176,Luthra-Badami,Food Service,Kuwait,Nagercoil,2023-08-29,30931369,90,Dakshesh Khosla,wishibose@kakar-dhawan.com,8336950835
+C00177,De Inc,Export Client,Singapore,Yamunanagar,2022-10-18,44095633,30,Pallavi Bava,jagat00@magar-bains.org,3082751488
+C00178,"Mane, Ranganathan and Mahajan",Retail Chain,UAE,Baranagar,2022-06-17,13212938,90,Mason Gopal,manekeya@bal.net,6745303117
+C00179,Boase-Garde,Food Service,UAE,Uluberia,2021-04-22,15182256,45,Raagini Iyer,tanay81@borde.info,5134005970
+C00180,Gupta LLC,QSR Chain,Bangladesh,Allahabad,2022-11-25,35076669,30,Hiral Sharma,aishanipradhan@khosla.com,915815500876
+C00181,Suri-Saxena,QSR Chain,Malaysia,Varanasi,2024-04-11,18796838,90,Chameli Divan,wsoni@sem.org,6174284537
+C00182,Chandran Inc,QSR Chain,Kenya,Dhule,2022-10-07,42183523,30,Dalaja Bhatia,nandra@konda.com,4234199317
+C00183,"Barad, Roy and Nayar",QSR Chain,Qatar,Jalna,2023-05-12,23702213,45,Nikita Puri,amrita69@natarajan.org,916535714848
+C00184,"Pandya, Deo and Aurora",Retail Chain,Kenya,Nanded,2023-04-11,26898976,60,Xalak Sachdev,narayansarthak@kapur-raval.biz,916892068076
+C00185,"Dhawan, Rastogi and Din",Retail Chain,Saudi Arabia,Secunderabad,2020-12-13,48539866,90,Gopal Suresh,yahvi62@krishnan-ratta.biz,6799321219
+C00186,"Jain, Arora and Parsa",Food Service,Kuwait,Panvel,2024-08-12,5503396,60,Aarna Devan,gsrinivas@dhillon.biz,6822689244
+C00187,"Natarajan, Samra and Garde",Food Service,Nepal,Maheshtala,2021-05-13,10766190,60,Praneel Iyengar,samuel68@ratti-bal.org,918630167418
+C00188,"Mallick, Balasubramanian and Kade",Food Service,Singapore,Bijapur,2022-12-31,4745910,90,Girik Nagy,vradhakrishnan@banerjee-kala.biz,4782724874
+C00189,Pathak Ltd,QSR Chain,India,Thrissur,2024-03-02,34853413,30,Anamika Desai,faris93@sama.com,4312245429
+C00190,Mammen and Sons,QSR Chain,Saudi Arabia,Nagpur,2024-04-14,7608279,30,Parth Singh,ikapur@murty.com,975409350
+C00191,Sibal-Baria,Distributor,Oman,Cuttack,2023-06-07,19785120,45,Nitesh Dutt,ridhi16@padmanabhan.biz,2150269586
+C00192,"Guha, Sachdev and Tripathi",Food Service,Nepal,Aligarh,2023-02-07,49530637,90,Chameli Ramachandran,leela82@nori-sane.com,910618218116
+C00193,Ramesh Group,Food Service,Sri Lanka,Mehsana,2021-12-10,3682042,30,Joshua Mangal,sanyasaran@kuruvilla.org,6290692218
+C00194,Bawa Group,Export Client,Kenya,Thane,2021-09-02,27387569,60,Peter Oommen,ybakshi@raj-suri.com,914335137378
+C00195,"Natt, Kade and Shan",Distributor,Saudi Arabia,Raipur,2024-10-18,41671072,45,Neha Bhandari,jacobbir@dass.com,911288018385
+C00196,"Mukhopadhyay, Kata and Khatri",Export Client,Kenya,Lucknow,2021-09-12,20989636,45,Praneel Aggarwal,anita99@brar-gupta.info,913546404156
+C00197,Subramanian LLC,Retail Chain,Singapore,Agra,2021-05-24,22178969,90,Chameli Barad,lde@koshy.info,6667638353
+C00198,Saxena-Parikh,Retail Chain,Oman,Dhule,2024-01-28,23221360,60,Nirja Ranganathan,chadaaadhya@shenoy-vasa.biz,7140640572
+C00199,Pingle and Sons,Retail Chain,India,Sagar,2023-08-26,35482119,45,Suhani Sengupta,ekaja78@warrior.org,917717506100
+C00200,Om-Sridhar,Retail Chain,Kuwait,Bijapur,2021-12-16,17240040,60,Hemani Nadig,goyaleiravati@lalla-gokhale.com,2016835972
